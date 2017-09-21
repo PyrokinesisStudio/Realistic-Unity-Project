@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 0af01799cd24d384bbbebd1021f968bb
-timeCreated: 1506000822
+guid: 5afa998b8d0c98945b78eb13debd0dfe
+timeCreated: 1506023366
 licenseType: Free
 ModelImporter:
   serializedVersion: 21
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Suzanne
+    4300000: Plane
   materials:
     importMaterials: 1
     materialName: 0
