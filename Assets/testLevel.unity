@@ -152,6 +152,10 @@ Prefab:
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 5afa998b8d0c98945b78eb13debd0dfe, type: 3}
+      propertyPath: m_Name
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5afa998b8d0c98945b78eb13debd0dfe, type: 3}
   m_IsPrefabParent: 0
@@ -321,7 +325,7 @@ GameObject:
   - component: {fileID: 1042321443}
   - component: {fileID: 1042321445}
   m_Layer: 0
-  m_Name: Directional Light
+  m_Name: Sun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
